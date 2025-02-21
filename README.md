@@ -1,2 +1,2 @@
-# 食用说明
-一加内核开源地址：[OnePlusOSS](https://github.com/OnePlusOSS/kernel_manifest)
+# how to build
+./kernel_platform/oplus/build/oplus_build_kernel.sh pineapple gki
